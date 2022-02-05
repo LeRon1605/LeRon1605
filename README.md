@@ -18,7 +18,4 @@ I'm Lê Quốc Rôn. I'm currently studying IT at <a href="http://dut.udn.vn/">D
 ## 📈 My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=LeRon1605&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731">
 ## ⚡ Recent Github Activity
-  <br/>
    <a href="https://github.com/LeRon1605"><img alt="LeRon1605's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeRon1605&custom_title=LeRon1605's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
- -->
