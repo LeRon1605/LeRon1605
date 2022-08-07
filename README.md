@@ -18,6 +18,7 @@ I'm Lê Quốc Rôn. I'm currently studying IT at <a href="http://dut.udn.vn/">D
 <h4>Visitor's count :eyes:</h4>
 
 <p><img src="https://profile-counter.glitch.me/{LeRon1605}/count.svg" alt="LeRon1605 :: Visitor's Count" /></p>
+
 ### 📈 My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=LeRon1605&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731">
 
