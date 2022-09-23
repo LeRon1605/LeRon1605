@@ -1,4 +1,42 @@
-### Hi there 👋
+<div>
+<img align='right' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='190"'>
+<b>Hi there, I'm Ron.</b>
+
+I'm an undergraduate student from <a href="http://dut.udn.vn/">Da Nang University Of Science and Technology</a>. I'm currently working on back-end development and familiar with **.NET framework** and **NodeJS**.
+</div>
+
+
+###  A little more about me...  
+
+```javascript
+const john = {
+  programmingLanguage: [C, C++, Javascript, C#, Java],
+  tools: [Node, Docker],
+  hobbies: [movie, game, coffee],
+  funFact: "No music, no coding."
+};
+```
+
+### 📈 My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=LeRon1605&&show_icons=true&title_color=00ffff&icon_color=cc66ff&text_color=daf7dc&bg_color=1e2731">
+
+### Connect with me:
+<a href="https://www.facebook.com/le.ron.399">
+  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<a href="https://www.instagram.com/ronnn165/">
+  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/l%C3%AA-r%C3%B4n-775a03215/">
+  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="mailto:ronle9519@gmail.com">
+  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br>
 
 <!--
 **LeRon1605/LeRon1605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +52,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 I'm Lê Quốc Rôn. I'm currently studying IT at <a href="http://dut.udn.vn/">Da Nang University Of Science and Technology</a>
 ### 🛠️ My Skills
 <p align="center"> 
@@ -44,3 +83,4 @@ I'm Lê Quốc Rôn. I'm currently studying IT at <a href="http://dut.udn.vn/">D
 </p>
 
 <img alt="LeRon1605's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeRon1605&custom_title=LeRon1605's%20Contribution%20Graph&theme=react-dark" />
+-->
