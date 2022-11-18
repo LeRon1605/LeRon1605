@@ -9,9 +9,7 @@ I'm an undergraduate student from <a href="http://dut.udn.vn/">Da Nang Universit
 ###  A little more about me...  
 ```javascript
 const john = {
-  programmingLanguage: [C, C++, Javascript, C#, Java],
-  tools: [Node, Docker],
-  hobbies: [movie, game, coffee],
+  hobbies: [movie, music, game, coffee],
   funFact: "No music, no coding."
 };
 ```
