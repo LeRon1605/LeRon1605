@@ -10,7 +10,7 @@ I'm an undergraduate student from <a href="http://dut.udn.vn/">Da Nang Universit
 ```javascript
 const john = {
   hobbies: [movie, music, game, coffee],
-  funFact: "No music, no coding."
+  funFact: "my favorite icon is 😢"
 };
 ```
 
@@ -33,8 +33,9 @@ const john = {
 <a href="mailto:ronle9519@gmail.com">
   <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<br>
 
+<img src="https://komarev.com/ghpvc/?username=LeRon1605&color=0e75b6&style=flat"/>
+<br>
 <!--
 **LeRon1605/LeRon1605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
